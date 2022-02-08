@@ -1,5 +1,6 @@
-## 👋 Hello everyone, I am Biola, a data scientist building skills in the AI/ML engineer space and a data/digital enthusiast. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge myself
+## 👋 Hello everyone,👋
 
+I am Biola, a data scientist building skills in the AI/ML engineer space and a data/digital enthusiast. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge eventually.
 
 Languages: Python, SQL
 
@@ -7,11 +8,9 @@ Viz Tools: Power BI, Tableau
 
 <!-- <img src=""> this is another way you can add in images -->
 
-![]https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW)
-
 - 👯I’m looking to continue to develop my skills and collaborate on data science and machine learning tools.
 
-<h2>My Projects</h2>
+<h2>Some Projects I've worked on,</h2>
 <table>
   <thead align="center">
     <tr border: 1px solid black;
