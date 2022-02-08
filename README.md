@@ -13,8 +13,7 @@ Viz Tools: Excel, Power BI, Tableau
 <h2>🖥️ Some Projects I've worked on,</h2>
 <table>
   <thead align="center">
-    <tr border: 1px solid black;
-        border-collapse: collapse;
+    <tr border: 1px solid black;        
         text-align: center;>
     </tr>
   </thead>
@@ -56,8 +55,18 @@ Viz Tools: Excel, Power BI, Tableau
         <td><a href= https://github.com/zidude1234/30_Days_of_Python><b>30 Day Challenge By Asabaneh </b></a></td>
         <td> Interesting challenge set up by over a 30 day period. Excellent course which helped me structure my thought process. Support him at <a href = "https://www.paypal.me/asabeneh"> Asabaneh</a>
   </td>
-        </tr>
+    </tr>
     <tr>
+    <td>3</td>
+        <td><a href= xxx><b>xxx</b></a></td>
+        <td>xxxxxx</td>
+    </tr>
+  
+  
+  
+  
+  
+  
   </tbody>
 </table>
 
