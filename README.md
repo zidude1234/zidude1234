@@ -4,19 +4,18 @@ I am Biola, a data scientist building skills in the AI/ML engineer space and a d
 
 Languages: Python, SQL
 
-Viz Tools: Power BI, Tableau
+Viz Tools: Excel, Power BI, Tableau
 
 <!-- <img src=""> this is another way you can add in images -->
 
 - 👯I’m looking to continue to develop my skills and collaborate on data science and machine learning tools.
 
-<h2>Some Projects I've worked on,</h2>
+<h2>🖥️ Some Projects I've worked on,</h2>
 <table>
   <thead align="center">
     <tr border: 1px solid black;
-        border-collapse: collapse;>
-      <td><b> 🖥️ Projects</b></td>
-      <td><b>💬 Remarks</b></td>
+        border-collapse: collapse;
+        text-align: center;>
     </tr>
   </thead>
   <tr>
@@ -54,7 +53,7 @@ Viz Tools: Power BI, Tableau
     </tr>
     <tr>
     <td>2</td>
-        <td><a href=xxxx"><b>30 Day Challenge By Asabaneh </b></a></td>
+        <td><a href= https://github.com/zidude1234/30_Days_of_Python><b>30 Day Challenge By Asabaneh </b></a></td>
         <td> Interesting challenge set up by over a 30 day period. Excellent course which helped me structure my thought process. Support him at <a href = "https://www.paypal.me/asabeneh"> Asabaneh</a>
   </td>
         </tr>
