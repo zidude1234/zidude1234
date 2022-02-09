@@ -38,7 +38,7 @@ Viz Tools: Excel, Power BI, Tableau
     </tr>
     <tr>
         <td>1</td>
-        <td><a href=xxxx"><b>Gender/Salary Visualization </b></a></td>
+        <td><a href="https://github.com/zidude1234/GenderViz/tree/main"><b>Gender/Salary Visualization </b></a></td>
         <td> Capstone Project to highlight gender gaps in a company.</td>
         </tr>
     <tr>
