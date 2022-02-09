@@ -10,7 +10,7 @@ Viz Tools: Excel, Power BI, Tableau
 - 👯I’m looking to continue to develop my skills and collaborate on data science and machine learning tools.
 
 <h2>🖥️ Some Projects I've worked on,</h2>
-<table style="width:80%">
+<table style="width:200px; border: 1px solid black">
   <thead align="center"
          valign = "top">
     <tr border: 1px solid black;        
@@ -30,7 +30,7 @@ Viz Tools: Excel, Power BI, Tableau
     <tr>
         <td>2</td>
         <td><a href=xxxx"><b>Danny's Diner Case #1 - Taste of Success </b></a></td>
-        <td> SQL Analysis for a brewery to determine the optimum profits and best-selling product lines across regions and periods.</td>
+        <td> SQL Analysis for the Danny's Diner <a href = "https://8weeksqlchallenge.com/case-study-1/"> Case #1</a> to provide insights on a restaurant business.</td>
         </tr>
     <tr>
     <tr>
