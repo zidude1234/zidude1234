@@ -1,6 +1,6 @@
 ## 👋 Hello everyone 👋
 
-I am Biola, a digital/data enthusiast building skills in the AI/ML space. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge eventually.
+I am Biola, a data enthusiast building skills as I explore transition into the data science/engineering space. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge eventually.
 
 Languages: Python, SQL
 
