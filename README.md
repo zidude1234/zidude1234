@@ -1,4 +1,4 @@
-## 👋 Hello everyone,👋
+## 👋 Hello everyone 👋
 
 I am Biola, a digital/data enthusiast building skills in the AI/ML space. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge eventually.
 
