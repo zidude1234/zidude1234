@@ -29,7 +29,7 @@ Viz Tools: Excel, Power BI, Tableau
     <tr>
     <tr>
         <td>2</td>
-        <td><a href=xxxx"><b>Danny's Diner Case #1 - Taste of Success </b></a></td>
+        <td><a href= "https://github.com/zidude1234/Danny_Diner-repo/tree/main/Danny's%20Diner%20Case%20%231"><b>Danny's Diner Case #1 - Taste of Success </b></a></td>
         <td> SQL Analysis for the Danny's Diner <a href = "https://8weeksqlchallenge.com/case-study-1/"> Case #1</a> to provide insights on a restaurant business.</td>
         </tr>
     <tr>
