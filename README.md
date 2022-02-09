@@ -1,4 +1,4 @@
-## 👋 Hello everyone,👋
+## 👋 Hello everyone 👋
 
 I am Biola, a data scientist building skills in the AI/ML engineer space and a data/digital enthusiast. I am on a learning journey to develop and deploy frameworks & solutions both on web and the cloud space. Hope to learn and expand the body of knowledge eventually.
 
@@ -13,7 +13,8 @@ Viz Tools: Excel, Power BI, Tableau
 <h2>🖥️ Some Projects I've worked on,</h2>
 <table>
   <thead align="center">
-    <tr border: 1px solid black;        
+    <tr border: 1px solid black;
+        style="width:75"
         text-align: center;>
     </tr>
   </thead>
