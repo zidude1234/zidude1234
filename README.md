@@ -47,7 +47,7 @@ Viz Tools: Excel, Power BI, Tableau
     </tr>
     <tr>
         <td valign = "top">1</td>
-        <td  valign = "top"><a href=xxxx"><b>Daily Coding Problems </b></a></td>
+        <td  valign = "top"><a href="https://github.com/zidude1234/Daily-Coding-Problems"><b>Daily Coding Problems </b></a></td>
         <td> Daily challenges to highlight use of coding from <a href = https://www.dailycodingproblem.com/>Daily Coding Problems.</a> Please subscribe to get more challenges.
     </tr>
     <tr>
