@@ -7,7 +7,7 @@ Languages: Python, SQL
 Viz Tools: Excel, Power BI, Tableau
 
 ![](https://1.bp.blogspot.com/-m_JN9tfmZoU/YMGXUSW1EhI/AAAAAAAABw8/UfPnDuCpMGAISdYc2ki2QXglF-kZDejPgCLcBGAsYHQ/s1600/cute-penguin.gif)
-- 👯I’m looking to continue to develop my skills and collaborate on data science and machine learning tools.
+- 👯I’m looking to continue to develop my skills and collaborate on data engineering/science and machine learning tools.
 
 <h2>🖥️ Some Projects I've worked on,</h2>
 <table style="width:200px; border: 1px solid black">
