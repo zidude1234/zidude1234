@@ -23,7 +23,7 @@ Viz Tools: Excel, Power BI, Tableau
   <tbody>
     <tr>
         <td  valign = "top">1</td>
-        <td  valign = "top"><a href=xxxx"><b>Capstone Breweries Project</b></a></td>
+        <td  valign = "top"><a href="https://github.com/zidude1234/IntlBreweries"><b>Capstone Breweries Project</b></a></td>
         <td> SQL Analysis for a brewery to determine the optimum profits and best-selling product lines across regions and periods.</td>
         </tr>
     <tr>
