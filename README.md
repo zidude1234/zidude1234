@@ -56,11 +56,7 @@ Viz Tools: Excel, Power BI, Tableau
         <td> Interesting challenge set up by over a 30 day period. Excellent course which helped me structure my thought process. Support him at <a href = "https://www.paypal.me/asabeneh"> Asabaneh</a>
   </td>
     </tr>
-    <tr>
-    <td>3</td>
-        <td><a href= xxx><b>xxx</b></a></td>
-        <td>xxxxxx</td>
-    </tr>
+
   
   
   
